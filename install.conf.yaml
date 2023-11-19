@@ -3,16 +3,9 @@
     - brew tap homebrew/cask-versions
     # dependencies
     # command line tools
-    - brew install ack
-    - brew install asdf
-    - brew install azure-cli
     - brew install awscli
-    - brew install aztfy
     - brew install bash
-    - brew install ctop
     - brew install curl
-    - brew install direnv
-    - brew install fig
     - brew install fluxcd/tap/flux
     - brew install fzf
     - brew install gettext
@@ -24,20 +17,12 @@
     - brew install htop
     - brew install jq
     - brew install jump
-    - brew install kubectx
-    - brew install kubernetes-cli
-    - brew install kubernetes-helm
-    - brew install kubecm
-    - brew install kubectx
-    - brew install kubelogin
-    - brew install kustomize
     - brew install less
     - brew install mas
     - brew install nmap
     - brew install node
     - brew install openssh
     - brew install openssl
-    - brew install pluto
     - brew install powerlevel10k
     - brew install postgresql
     - brew install pre-commit
@@ -53,15 +38,8 @@
     - brew install zsh-completions
     - brew install zsh-syntax-highlighting
     # desktop tools
-    - brew install --cask docker
-    - brew install --cask firefox
     - brew install --cask google-chrome
     - brew install --cask homebrew/cask-fonts/font-hack
-    - brew install --cask iterm2
-    - brew install --cask jetbrains-toolbox
-    - brew install --cask keepingyouawake
-    - brew install --cask maccy
-    - brew install --cask rectangle
     - brew install --cask slack
     - brew install --cask spotify
     - brew install --cask visual-studio-code
