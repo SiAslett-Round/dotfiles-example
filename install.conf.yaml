@@ -39,6 +39,7 @@
     - brew install zsh-syntax-highlighting
     # desktop tools
     - brew install --cask google-chrome
+    - brew install --cask github
     - brew install --cask homebrew/cask-fonts/font-hack
     - brew install --cask slack
     - brew install --cask spotify
